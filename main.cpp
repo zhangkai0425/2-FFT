@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  inverse
-//
-//  Created by 张凯 on 2021/10/21.
-//  Copyright © 2021 张凯. All rights reserved.
-//
-
 #include <iostream>
 #include <vector>
 #include <cmath>
